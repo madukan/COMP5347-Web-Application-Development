@@ -1,7 +1,7 @@
 # COMP5347 Web Application Development
 **University of Sydney**
 
-*Semester 2, 2018*
+*Semester 1, 2018*
 
 
 
